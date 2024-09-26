@@ -1,0 +1,34 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "programs": "Programs",
+    "contact": "Contact Us"
+  },
+  "home": {
+    "heading1": "Unlock Your Child’s Potential with Robotics and Coding at",
+    "content1": "At Big Brains, we’re introducing children to the exciting world of robotics and coding, helping them unlock their full potential. Our programs go beyond just building robots—they nurture creativity, boost problem-solving skills, and cultivate a deep passion for technology. We believe every child is an innovator in the making, and we’re here to help them realize that potential.",
+    "whyquestion": "Why Robotics Matters for Kids?",
+    "whyanswer": "Robotics is a powerful tool for developing critical thinking, creativity, and teamwork. By learning how to build and program robots, children gain skills that are essential for thriving in today’s tech-centric world, providing a strong foundation for future success in various industries.",
+    "howquestion": "How to Select the Right Robotics Class?",
+    "howanswer": "Choosing the best robotics program for your child requires careful consideration. Here are a few tips to guide you",
+    "howhead1": "Identify Interests",
+    "howcontent1": "Focus on what aspects of robotics excite your child.",
+    "howhead2": "Evaluate Curriculum",
+    "howcontent2": "Ensure the course includes both theoretical learning and practical application.​",
+    "howhead3": "Look for Experienced Instructors",
+    "howcontent3": "Seek out mentors who are passionate and knowledgeable.​",
+    "howhead4": "Prioritize Small Class Sizes",
+    "howcontent4": "Personalized attention often enhances learning.​",
+    "howhead5": "Emphasize Hands-On Learning",
+    "howcontent5": "Projects that challenge children to create and experiment are key to retaining knowledge.​",
+    "coding":"Coding and Robotics at",
+    "codingcontent1":"At Big Brains, we offer a dynamic curriculum in coding and robotics, designed to ignite curiosity and develop a lifelong passion for technology. Our programs cater to different age groups and skill levels, ensuring every child can find a program suited to their interests.With state-of-the-art resources and experienced instructors, we create an environment that fosters innovation and growth.",
+    "codingcontent2":"Our hands-on courses introduce students to engineering, programming, and design concepts through engaging projects, encouraging them to think critically and creatively while having fun. Join us, and watch your child become a tech-savvy problem-solver ready for the future!",
+    "enrollcontent":"Hear from parents and students who have transformed their skills and confidence through our robotics and coding classes at",
+    "enrollbutton":"Enroll Now"
+  },
+  "footer":{
+    "content":"Exemplary coding and Robotics training for kids aged 7 and above in Switzerland."
+  }
+}

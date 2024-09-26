@@ -1,0 +1,34 @@
+{
+  "nav": {
+    "home": "Heim",
+    "about": "Über uns",
+    "programs": "Programme",
+    "contact": "Kontaktieren Sie uns"
+  },
+  "home": {
+    "heading1": "Entfalten Sie das Potenzial Ihres Kindes mit Robotik und Programmieren bei",
+    "content1": "Bei Big Brains führen wir Kinder in die aufregende Welt der Robotik und des Programmierens ein und helfen ihnen, ihr volles Potenzial auszuschöpfen. Unsere Programme gehen über den reinen Roboterbau hinaus – sie fördern die Kreativität, fördern die Problemlösungskompetenz und fördern eine tiefe Leidenschaft für Technologie. Wir glauben, dass jedes Kind ein Innovator ist, und wir sind hier, um ihm zu helfen, dieses Potenzial auszuschöpfen.",
+    "whyquestion": "Warum ist Robotik für Kinder wichtig?",
+    "whyanswer": "Robotik ist ein leistungsstarkes Werkzeug zur Entwicklung von kritischem Denken, Kreativität und Teamarbeit. Indem sie lernen, Roboter zu bauen und zu programmieren, erwerben Kinder Fähigkeiten, die für das Gedeihen in der heutigen technikzentrierten Welt unerlässlich sind und eine solide Grundlage für zukünftigen Erfolg in verschiedenen Branchen bilden.",
+    "howquestion": "Wie wählt man den richtigen Robotikkurs aus?",
+    "howanswer": "Die Wahl des besten Robotikprogramms für Ihr Kind erfordert sorgfältige Überlegung. Hier sind einige Tipps, die Ihnen dabei helfen können",
+    "howhead1": "Interessen identifizieren",
+    "howcontent1": "Konzentrieren Sie sich darauf, welche Aspekte der Robotik Ihr Kind begeistern.",
+    "howhead2": "Lehrplan evaluieren",
+    "howcontent2": "Stellen Sie sicher, dass der Kurs sowohl theoretisches Lernen als auch praktische Anwendung umfasst.​",
+    "howhead3": "Suchen Sie nach erfahrenen Lehrern",
+    "howcontent3": "Suchen Sie nach Mentoren, die leidenschaftlich und kompetent sind.​",
+    "howhead4": "Kleine Klassengrößen priorisieren",
+    "howcontent4": "Persönliche Aufmerksamkeit fördert oft das Lernen.​",
+    "howhead5": "Betonen Sie praktisches Lernen",
+    "howcontent5": "Projekte, die Kinder zum Gestalten und Experimentieren anregen, sind der Schlüssel zum Behalten von Wissen.​",
+    "coding":"Coding und Robotik an der",
+    "codingcontent1":"Bei Big Brains bieten wir einen dynamischen Lehrplan in Programmierung und Robotik an, der die Neugierde wecken und eine lebenslange Leidenschaft für Technologie entwickeln soll. Unsere Programme richten sich an verschiedene Altersgruppen und Fähigkeitsstufen, sodass jedes Kind ein Programm finden kann, das seinen Interessen entspricht. Mit hochmodernen Ressourcen und erfahrenen Lehrern schaffen wir eine Umgebung, die Innovation und Wachstum fördert.",
+    "codingcontent2":"Unsere praxisorientierten Kurse führen Schüler anhand spannender Projekte in die Konzepte von Technik, Programmierung und Design ein und regen sie an, kritisch und kreativ zu denken und dabei Spaß zu haben. Kommen Sie zu uns und erleben Sie, wie Ihr Kind zu einem technisch versierten Problemlöser wird, der für die Zukunft gerüstet ist!",
+    "enrollcontent":"Hören Sie von Eltern und Schülern, die ihre Fähigkeiten und ihr Selbstvertrauen durch unsere Robotik- und Programmierkurse verbessert haben",
+    "enrollbutton":"Jetzt anmelden"
+  },
+  "footer":{
+    "content":"Vorbildliches Coding- und Robotik-Training für Kinder ab 7 Jahren in der Schweiz."
+  }
+}
