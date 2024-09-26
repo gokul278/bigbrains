@@ -24,23 +24,22 @@ export const Home = () => {
     <div>
       <div className="w-full h-[auto] lg:h-[100vh] bg-[#F5F7F8]" align="center">
         <div
-          className="w-[100%] bg-auto lg:bg-[cover] py-7 lg:w-[85%] h-[auto] lg:h-screen flex flex-col items-center justify-center lg:flex-row"
+          className="w-[100%] bg-right lg:bg-left lg:bg-[cover] py-7 lg:w-[85%] h-[auto] lg:h-screen flex flex-col items-center justify-center lg:flex-row"
           data-aos="fade-up"
           style={{
             backgroundImage: `url(${bg1})`,
-            backgroundPosition: "center",
           }}
         >
-          <div className="w-[90%] lg:w-[53%] flex flex-col justify-end lg:justify-center items-end">
+          <div className="w-[100%] lg:w-[53%] flex flex-col justify-center items-center">
             <h1
-              className="w-[100%] lg:w-[100%] text-[28px] lg:text-[29px] font-outfit font-semibold"
+              className="w-[90%] lg:w-[100%] text-[28px] lg:text-[25px] font-outfit font-semibold"
               data-aos="fade-up"
               data-aos-delay="200"
             >
               {t("home.heading1")}{" "}
               <span className="text-[#309591]">Big Brains</span>
             </h1>
-            <p className="mt-4 text-[16px] font-normal font-outfit">
+            <p className="w-[85%] lg:w-[100%] mt-4 text-[18px] font-normal font-outfit">
               {t("home.content1")}{" "}
             </p>
           </div>
@@ -72,7 +71,7 @@ export const Home = () => {
         }}
         align="center"
       >
-        <div className="w-[70%] h-[auto] lg:h-[65vh] flex flex-col lg:flex-row justify-between items-center">
+        <div className="w-[85%] h-[auto] lg:h-[65vh] flex flex-col lg:flex-row justify-between items-center">
           <div className="w-[100%] lg:w-[40%]">
             <img
               className="w-[100%] rounded-md shadow-sm"
@@ -81,9 +80,9 @@ export const Home = () => {
               data-aos="zoom-in"
             />
           </div>
-          <div className="w-[100%] pt-5 lg:pt-0 lg:w-[50%]">
+          <div className="w-[100%] pt-5 py-5 lg:pt-0 lg:w-[50%]">
             <p
-              className="text-[16px] lg:text-[21px] font-normal lg:font-normal font-outfit"
+              className="text-[18px] lg:text-[21px] font-normal lg:font-normal font-outfit"
               data-aos="fade-right"
               data-aos-delay="100"
             >
@@ -98,7 +97,6 @@ export const Home = () => {
           style={{
             backgroundImage: `url(${bg3})`,
             backgroundPosition: "center",
-            backgroundAttachment: "fixed",
             backgroundSize: "cover",
           }}
         >
@@ -113,7 +111,7 @@ export const Home = () => {
               >
                 {t("home.howquestion")}
               </h1>
-              <p className="mt-4 text-[20px] text-[#fff] font-normal lg:font-normal font-outfit">
+              <p className="mt-4 w-[95%] text-[20px] text-[#fff] font-normal lg:font-normal font-outfit">
                 {t("home.howanswer")}
               </p>
             </div>
@@ -220,10 +218,10 @@ export const Home = () => {
         }}
         align="center"
       >
-        <div className="w-[70%] h-[auto] lg:h-[65vh] flex flex-col lg:flex-row justify-between items-center">
+        <div className="w-[85%] h-[auto] lg:h-[65vh] flex flex-col lg:flex-row justify-between items-center">
           <div className="w-[100%] lg:w-[50%]">
             <p
-              className="w-[100%] text-[16px] lg:text-[17.5px] font-normal font-outfit"
+              className="w-[100%] text-[18px] lg:text-[17.5px] font-normal font-outfit"
               data-aos="fade-right"
               data-aos-delay="100"
             >
