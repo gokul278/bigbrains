@@ -208,7 +208,7 @@ const About = () => {
         </div>
       </div>
 
-      <div className="w-full mb-16">
+      <div className="w-full bg-[#f5f7f8] pb-16">
         <div
           className="w-[90%] py-10 shadow-lg flex flex-col lg:flex-row justify-center items-center lg:justify-evenly rounded bg-[#fce34f]"
           data-aos="fade-right"
