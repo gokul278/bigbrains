@@ -209,7 +209,11 @@ const About = () => {
       </div>
 
       <div className="w-full mb-16">
-        <div className="w-[90%] py-10 shadow-lg flex flex-col lg:flex-row justify-center items-center lg:justify-evenly rounded bg-[#fce34f]" data-aos="fade-right" data-aos-delay="300">
+        <div
+          className="w-[90%] py-10 shadow-lg flex flex-col lg:flex-row justify-center items-center lg:justify-evenly rounded bg-[#fce34f]"
+          data-aos="fade-right"
+          data-aos-delay="300"
+        >
           <div className="w-[90%] lg:w-[50%] flex flex-col ">
             <h1 className="font-normal font-bebas py-4 text-center lg:text-start text-[40px] text-[#000]">
               {t("about.skillshead")}
