@@ -93,6 +93,7 @@ export default function Header() {
                       location.pathname === "/" ? "underline" : ""
                     }`}
                     onClick={() => {
+                      setIsToggleOpen(false);
                       navigate("/");
                     }}
                   >
@@ -111,6 +112,7 @@ export default function Header() {
                       location.pathname === "/about" ? "underline" : ""
                     }`}
                     onClick={() => {
+                      setIsToggleOpen(false);
                       navigate("/about");
                     }}
                   >
@@ -129,6 +131,7 @@ export default function Header() {
                       location.pathname === "/programs" ? "underline" : ""
                     }`}
                     onClick={() => {
+                      setIsToggleOpen(false);
                       navigate("/programs");
                     }}
                   >
@@ -147,6 +150,7 @@ export default function Header() {
                       location.pathname === "/contact" ? "underline" : ""
                     }`}
                     onClick={() => {
+                      setIsToggleOpen(false);
                       navigate("/contact");
                     }}
                   >

@@ -22,13 +22,38 @@
     "howcontent4": "Personalized attention often enhances learning.​",
     "howhead5": "Emphasize Hands-On Learning",
     "howcontent5": "Projects that challenge children to create and experiment are key to retaining knowledge.​",
-    "coding":"Coding and Robotics at",
-    "codingcontent1":"At Big Brains, we offer a dynamic curriculum in coding and robotics, designed to ignite curiosity and develop a lifelong passion for technology. Our programs cater to different age groups and skill levels, ensuring every child can find a program suited to their interests.With state-of-the-art resources and experienced instructors, we create an environment that fosters innovation and growth.",
-    "codingcontent2":"Our hands-on courses introduce students to engineering, programming, and design concepts through engaging projects, encouraging them to think critically and creatively while having fun. Join us, and watch your child become a tech-savvy problem-solver ready for the future!",
-    "enrollcontent":"Hear from parents and students who have transformed their skills and confidence through our robotics and coding classes at",
-    "enrollbutton":"Enroll Now"
+    "coding": "Coding and Robotics at",
+    "codingcontent1": "At Big Brains, we offer a dynamic curriculum in coding and robotics, designed to ignite curiosity and develop a lifelong passion for technology. Our programs cater to different age groups and skill levels, ensuring every child can find a program suited to their interests.With state-of-the-art resources and experienced instructors, we create an environment that fosters innovation and growth.",
+    "codingcontent2": "Our hands-on courses introduce students to engineering, programming, and design concepts through engaging projects, encouraging them to think critically and creatively while having fun. Join us, and watch your child become a tech-savvy problem-solver ready for the future!",
+    "enrollcontent": "Hear from parents and students who have transformed their skills and confidence through our robotics and coding classes at",
+    "enrollbutton": "Enroll Now"
   },
-  "footer":{
-    "content":"Exemplary coding and Robotics training for kids aged 7 and above in Switzerland."
+  "footer": {
+    "content": "Exemplary coding and Robotics training for kids aged 7 and above in Switzerland."
+  },
+  "about": {
+    "aboutus": "About Us",
+    "content1": "Welcome to",
+    "content2": ", an exciting platform for whipping young minds into creative fantasia. Serving quality education related to the subjects of robotics and coding, we set out to equip future innovators in the technological sector. Ensuring a dynamic and inclusive learning environment for our students, we aim to nurture a love for technology with passion.",
+    "why": "Why Big Brains?",
+    "whyanswerhead1": "Experienced Educators",
+    "whyanswercontent1": "Instructors have not only expertise in their fields but are also passionate mentors who guide children through their learning journey.",
+    "whyanswerhead2": "Comprehensive Programs",
+    "whyanswercontent2": "Curriculum here are founded on the fundamental principles and the coding and robotics advancements.",
+    "whyanswerhead3": "Customized Learning",
+    "whyanswercontent3": "Each one of the children is given customized attention so that every learning need is met.",
+    "whyanswerhead4": "Award-winning curriculum",
+    "whyanswercontent4": "Our award-winning programs are designed to inspire curiosity, creativity, and critical thinking to equip the kid with the skills needed for the future.",
+    "ourteaching": "Our Teaching Methodology",
+    "ourteachinghead1": "Study-Based Learning",
+    "ourteachingcontent1": "Our award-winning programs are designed to inspire curiosity, creativity, and critical thinking to equip the kid with the skills needed for the future.",
+    "ourteachinghead2": "Tailor-made for every child​",
+    "ourteachingcontent2": "Our programs are designed for different types of learning experience for the children. The age, small class sizes, or specified goals can​ be differentiated-all by regarding your needs and objectives.",
+    "ourteachinghead3": "Inclusive Education",
+    "ourteachingcontent3": "We provide all our students with an inclusive curriculum that is designed for a diverse range of students. Our flexible programs perfect the adjustment to different learning styles, including traditional, gifted, and special-needs students; thus, every child will have the opportunity to progress at his/her own pace.​",
+    "skillshead": "Programs for All Skill Levels",
+    "skillscontent1": "Whether your child is new to the world of robotics and coding, or has already mastered some of the concepts, we have programs designed to fit every need and skill level. Have glance at our Programs to determine which option best fits your child's needs.",
+    "skillscontent2": "If you need more information or have questions, please contact us, and we will be happy to help you!​",
+    "contact": "Contact Us"
   }
 }

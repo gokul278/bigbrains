@@ -32,7 +32,7 @@ export const Home = () => {
         >
           <div className="w-[100%] lg:w-[53%] flex flex-col justify-center items-center">
             <h1
-              className="w-[90%] lg:w-[100%] text-[28px] lg:text-[25px] font-outfit font-semibold"
+              className="w-[90%] lg:w-[100%] my-10 pt-4 lg:pt-0 lg:my-0 text-[28px] lg:text-[28px] font-outfit font-semibold"
               data-aos="fade-up"
               data-aos-delay="200"
             >
@@ -71,18 +71,18 @@ export const Home = () => {
         }}
         align="center"
       >
-        <div className="w-[85%] h-[auto] lg:h-[65vh] flex flex-col lg:flex-row justify-between items-center">
+        <div className="w-[80%] h-[auto] lg:h-[65vh] flex flex-col lg:flex-row justify-between items-center">
           <div className="w-[100%] lg:w-[40%]">
             <img
-              className="w-[100%] rounded-md shadow-sm"
+              className="w-[90%] rounded-md shadow-sm"
               src={design2}
               alt="design2"
               data-aos="zoom-in"
             />
           </div>
-          <div className="w-[100%] pt-5 py-5 lg:pt-0 lg:w-[50%]">
+          <div className="w-[100%] pt-5 py-5 lg:pt-0 lg:w-[55%]">
             <p
-              className="text-[18px] lg:text-[21px] font-normal lg:font-normal font-outfit"
+              className="text-[18px] lg:text-[18px] font-normal lg:font-normal font-outfit"
               data-aos="fade-right"
               data-aos-delay="100"
             >
@@ -98,6 +98,7 @@ export const Home = () => {
             backgroundImage: `url(${bg3})`,
             backgroundPosition: "center",
             backgroundSize: "cover",
+            backgroundAttachment: "fixed",
           }}
         >
           <div
@@ -218,10 +219,10 @@ export const Home = () => {
         }}
         align="center"
       >
-        <div className="w-[85%] h-[auto] lg:h-[65vh] flex flex-col lg:flex-row justify-between items-center">
+        <div className="w-[85%] h-[auto] lg:h-[65vh] flex flex-col lg:flex-row justify-evenly items-center">
           <div className="w-[100%] lg:w-[50%]">
             <p
-              className="w-[100%] text-[18px] lg:text-[17.5px] font-normal font-outfit"
+              className="w-[100%] text-[18px] lg:text-[18px] font-normal font-outfit"
               data-aos="fade-right"
               data-aos-delay="100"
             >
@@ -229,9 +230,9 @@ export const Home = () => {
               <div className="pt-[20px]">{t("home.codingcontent2")}</div>
             </p>
           </div>
-          <div className="w-[100%] mt-5 lg:mt-0 lg:w-[45%]">
+          <div className="w-[100%] mt-5 lg:mt-0 lg:w-[40%]">
             <img
-              className="w-[100%] rounded-md shadow-sm"
+              className="w-[90%] rounded-md shadow-sm"
               src={design3}
               alt="design2"
               data-aos="zoom-in"

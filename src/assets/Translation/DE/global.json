@@ -30,5 +30,30 @@
   },
   "footer":{
     "content":"Vorbildliches Coding- und Robotik-Training für Kinder ab 7 Jahren in der Schweiz."
+  },
+  "about": {
+    "aboutus": "Über uns",
+    "content1": "Herzlich Willkommen bei",
+    "content2": ", eine aufregende Plattform, um junge Köpfe in kreative Fantasien zu versetzen. Wir bieten eine qualitativ hochwertige Ausbildung in den Bereichen Robotik und Programmierung und machen uns daran, zukünftige Innovatoren im Technologiesektor auszustatten. Wir sorgen für ein dynamisches und integratives Lernumfeld für unsere Schüler und wollen die Liebe zur Technologie mit Leidenschaft fördern.",
+    "why": "Warum Big Brains?",
+    "whyanswerhead1": "Erfahrene Pädagogen",
+    "whyanswercontent1": "Die Dozenten verfügen nicht nur über Fachwissen auf ihrem Gebiet, sondern sind auch leidenschaftliche Mentoren, die Kinder auf ihrem Lernweg begleiten.",
+    "whyanswerhead2": "Umfassende Programme",
+    "whyanswercontent2": "Der Lehrplan hier basiert auf den Grundprinzipien und den Fortschritten in den Bereichen Codierung und Robotik.",
+    "whyanswerhead3": "Maßgeschneidertes Lernen",
+    "whyanswercontent3": "Jedes der Kinder erhält eine individuelle Betreuung, so dass alle Lernbedürfnisse erfüllt werden.",
+    "whyanswerhead4": "Preisgekrönter Lehrplan",
+    "whyanswercontent4": "Unsere preisgekrönten Programme sind so konzipiert, dass sie Neugier, Kreativität und kritisches Denken anregen, um das Kind mit den Fähigkeiten auszustatten, die es für die Zukunft braucht.",
+    "ourteaching": "Unsere Lehrmethodik",
+    "ourteachinghead1": "Studienbasiertes Lernen",
+    "ourteachingcontent1": "Unsere preisgekrönten Programme sind so konzipiert, dass sie Neugier, Kreativität und kritisches Denken anregen, um das Kind mit den Fähigkeiten auszustatten, die es für die Zukunft braucht.",
+    "ourteachinghead2": "Maßgeschneidert für jedes Kind",
+    "ourteachingcontent2": "Unsere Programme sind für verschiedene Arten von Lernerfahrungen für die Kinder konzipiert. Das Alter, die kleinen Klassengrößen oder die festgelegten Ziele können unterschieden werden - alles unter Berücksichtigung Ihrer Bedürfnisse und Ziele.",
+    "ourteachinghead3": "Integrationspädagogik",
+    "ourteachingcontent3": "Wir bieten allen unseren Schülerinnen und Schülern einen inklusiven Lehrplan, der für eine Vielzahl von Schülerinnen und Schülern konzipiert ist. Unsere flexiblen Programme perfektionieren die Anpassung an verschiedene Lernstile, einschließlich traditioneller, begabter und behinderter Schüler; So hat jedes Kind die Möglichkeit, in seinem eigenen Tempo Fortschritte zu machen.",
+    "skillshead": "Programme für alle Könnerstufen",
+    "skillscontent1": "Ganz gleich, ob Ihr Kind neu in der Welt der Robotik und des Programmierens ist oder bereits einige der Konzepte beherrscht, wir haben Programme, die für jeden Bedarf und jedes Kenntnisstand geeignet sind. Werfen Sie einen Blick auf unsere Programme, um herauszufinden, welche Option am besten zu den Bedürfnissen Ihres Kindes passt.",
+    "skillscontent2": "Wenn Sie weitere Informationen benötigen oder Fragen haben, kontaktieren Sie uns bitte, und wir helfen Ihnen gerne weiter!​",
+    "contact": "Kontaktieren Sie uns"
   }
 }
