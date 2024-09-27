@@ -98,7 +98,6 @@ export const Home = () => {
             backgroundImage: `url(${bg3})`,
             backgroundPosition: "center",
             backgroundSize: "cover",
-            backgroundAttachment: "fixed",
           }}
         >
           <div
