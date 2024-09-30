@@ -55,5 +55,35 @@
     "skillscontent1": "Whether your child is new to the world of robotics and coding, or has already mastered some of the concepts, we have programs designed to fit every need and skill level. Have glance at our Programs to determine which option best fits your child's needs.",
     "skillscontent2": "If you need more information or have questions, please contact us, and we will be happy to help you!​",
     "contact": "Contact Us"
+  },
+  "contact": {
+    "contact": "Contact Us",
+    "para": "We’d love to hear from you! Whether you have questions about our courses, need support, or just want to say hello, feel free to reach out to us.​"
+  },
+  "program": {
+    "program": "Programs",
+    "heading1": "Nurturing tomorrow’s innovators",
+    "content1": "Big Brains inspire young minds with interactive robotics and coding programs. At Big Brains, every child, regardless of age or experience level, will find a program designed to excite them and challenge their potential. ​",
+    "highlights": "Program Highlights",
+    "highlightcontent1": "Experiential & Project-based Learning.",
+    "highlightcontent2": "Instructor-led sessions (online and offline),",
+    "highlightcontent3": "Curriculum as per age group",
+    "overviewhead": "Overview of the programs we offer",
+    "overviewcontent11": "Robotics for beginners",
+    "overviewcontent12": "Level ONE (ages 7 and up)",
+    "overviewcontent13": "Our starter course is designed for little explorers who embark for the first time into the fascinating robot world. This course delves into the scientific aspects of programming and mechanical design with hands-on learning, as students will build and program their robots with intuitive tools. At the end, they will have strengthened their critical thinking skills and problem-solving abilities.​",
+    "overviewcontent14": "Program outcome",
+    "overviewcontent15": "Kids will learn block based coding using SCRATCH Programming.​",
+    "overviewcontent16": "Building small robotics projects using Tinkercad Block Programming.​",
+    "overviewcontent17": "Simple android apps using App inventor​.​",
+    "overviewcontent18": "Online Program.​",
+    "overviewcontent19": "Big Brains believes that every child learns differently. To cater for these varied needs, we offer personalized online coding and robotics courses. These courses will equip students to do well in today's digital world. Whether one-on-one or in small groups, our instructors are trained to provide students with tailored help so they may reach their full potential. Level One and Level Two are available online.​",
+    "overviewcontent110": "Ready to start your learning journey? Enroll today to take the first step towards achieving your goals.​​",
+    "overviewcontent21":"Mid-Level Robotics",
+    "overviewcontent22":"Level TWO​",
+    "overviewcontent23":"Our intermediate robotics course expands on basic skills, introducing advanced programming, sensor integration, and automation. Students will design and build robots to tackle complex tasks such as navigating mazes or performing automated actions. This hands-on approach nurtures creativity and sharpens technical skills for future robotics challenges.",
+    "overviewcontent24":"Kids will learn Advanced block based coding using SCRATCH Programming.​",
+    "overviewcontent25":"Building robotics projects using Tinkercad.​",
+    "overviewcontent26":"Text Based Coding using Python, Basics of Machine Learning & AI.​"
   }
 }

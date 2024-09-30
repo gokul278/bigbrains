@@ -14,8 +14,10 @@ import num3 from "../../assets/Img/About/Logo/num3.svg";
 import logo from "../../assets/Img/About/Logo/logo.png";
 import "./About.css";
 import { useTranslation } from "react-i18next";
+import { useNavigate } from "react-router-dom";
 
 const About = () => {
+  const navigate = useNavigate();
   const { t, i18n } = useTranslation("global");
   return (
     <div className="w-full bg-[#F5F7F8]" align="center">
@@ -37,8 +39,8 @@ const About = () => {
         className="w-[80%] mt-0 lg:mt-10 h-[auto] lg:h-[70vh]"
         align="center"
       >
-        <div className="w-[100%] flex-col lg:flex-row flex">
-          <div className="w-full lg:w-[55%] flex justify-evenly items-center">
+        <div className="w-[100%] flex-col lg:flex-row justify-evenly flex">
+          <div className="w-full lg:w-[45%] flex justify-evenly items-center">
             <p
               className="text-[18px] lg:text-[21px] font-normal lg:font-normal font-outfit"
               data-aos="fade-right"
@@ -76,13 +78,8 @@ const About = () => {
         </div>
 
         <div className="w-[95%] py-10 lg:w-[95%] flex flex-col lg:flex-row justify-evenly items-center lg:items-start gap-y-10">
-          <div className="w-[260px]" align="center">
-            <img
-              className="rounded-full"
-              src={img1}
-              data-aos="zoom-in"
-              alt="img1"
-            />
+          <div className="w-[260px]" align="center" data-aos="zoom-in">
+            <img className="rounded-full" src={img1} alt="img1" />
             <h1 className="font-bold w-[50%] py-4 text-[23px] text-[#000]">
               {t("about.whyanswerhead1")}
             </h1>
@@ -90,14 +87,13 @@ const About = () => {
               {t("about.whyanswercontent1")}
             </p>
           </div>
-          <div className="w-[260px]" align="center">
-            <img
-              className="rounded-full"
-              src={img2}
-              data-aos="zoom-in"
-              data-aos-delay="100"
-              alt="img1"
-            />
+          <div
+            className="w-[260px]"
+            align="center"
+            data-aos="zoom-in"
+            data-aos-delay="100"
+          >
+            <img className="rounded-full" src={img2} alt="img1" />
             <h1 className="font-bold w-[80%] py-4 text-[23px] text-[#000]">
               {t("about.whyanswerhead2")}
             </h1>
@@ -105,14 +101,13 @@ const About = () => {
               {t("about.whyanswercontent2")}
             </p>
           </div>
-          <div className="w-[260px]" align="center">
-            <img
-              className="rounded-full"
-              src={img3}
-              data-aos="zoom-in"
-              data-aos-delay="200"
-              alt="img1"
-            />
+          <div
+            className="w-[260px]"
+            align="center"
+            data-aos="zoom-in"
+            data-aos-delay="200"
+          >
+            <img className="rounded-full" src={img3} alt="img1" />
             <h1 className="font-bold w-[80%] py-4 text-[23px] text-[#000]">
               {t("about.whyanswerhead3")}
             </h1>
@@ -120,14 +115,13 @@ const About = () => {
               {t("about.whyanswercontent3")}
             </p>
           </div>
-          <div className="w-[260px]" align="center">
-            <img
-              className="rounded-full"
-              src={img4}
-              data-aos="zoom-in"
-              data-aos-delay="300"
-              alt="img1"
-            />
+          <div
+            className="w-[260px]"
+            align="center"
+            data-aos="zoom-in"
+            data-aos-delay="300"
+          >
+            <img className="rounded-full" src={img4} alt="img1" />
             <h1 className="font-bold w-[80%] py-4 text-[23px] text-[#000]">
               {t("about.whyanswerhead4")}
             </h1>
@@ -159,10 +153,16 @@ const About = () => {
               data-aos="flip-left"
               alt="num1"
             />
-            <h1 className="font-bold py-4 text-[23px] text-[#309591]">
+            <h1
+              className="font-bold py-4 text-[23px] text-[#309591]"
+              data-aos="fade-right"
+            >
               {t("about.ourteachinghead1")}
             </h1>
-            <p className="w-[100%] text-[18px] font-normal font-outfit">
+            <p
+              className="w-[100%] text-[18px] font-normal font-outfit"
+              data-aos="fade-right"
+            >
               {t("about.ourteachingcontent1")}
             </p>
           </div>
@@ -181,10 +181,18 @@ const About = () => {
               data-aos="flip-left"
               alt="num2"
             />
-            <h1 className="font-bold py-4 text-[23px] text-[#309591]">
+            <h1
+              className="font-bold py-4 text-[23px] text-[#309591]"
+              data-aos="fade-right"
+              data-aos-delay="400"
+            >
               {t("about.ourteachinghead2")}
             </h1>
-            <p className="w-[100%] text-[18px] font-normal font-outfit">
+            <p
+              className="w-[100%] text-[18px] font-normal font-outfit"
+              data-aos="fade-right"
+              data-aos-delay="400"
+            >
               {t("about.ourteachingcontent2")}
             </p>
           </div>
@@ -198,10 +206,18 @@ const About = () => {
               data-aos-delay="500"
               data-aos="flip-left"
             />
-            <h1 className="font-bold py-4 text-[23px] text-[#309591]">
+            <h1
+              className="font-bold py-4 text-[23px] text-[#309591]"
+              data-aos="fade-right"
+              data-aos-delay="500"
+            >
               {t("about.ourteachinghead3")}
             </h1>
-            <p className="w-[100%] text-[18px] font-normal font-outfit">
+            <p
+              className="w-[100%] text-[18px] font-normal font-outfit"
+              data-aos="fade-right"
+              data-aos-delay="500"
+            >
               {t("about.ourteachingcontent3")}
             </p>
           </div>
@@ -223,11 +239,16 @@ const About = () => {
               <div className="mt-4">{t("about.skillscontent2")}</div>
             </p>
             <div className="flex mt-10">
-              <div class="fancy">
-                <span class="top-key"></span>
-                <span class="text">{t("about.contact")}</span>
-                <span class="bottom-key-1"></span>
-                <span class="bottom-key-2"></span>
+              <div
+                onClick={() => {
+                  navigate("/contact");
+                }}
+                className="fancy"
+              >
+                <span className="top-key"></span>
+                <span className="text">{t("about.contact")}</span>
+                <span className="bottom-key-1"></span>
+                <span className="bottom-key-2"></span>
               </div>
             </div>
           </div>

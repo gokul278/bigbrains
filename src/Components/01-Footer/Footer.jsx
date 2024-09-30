@@ -1,9 +1,10 @@
 import React from "react";
 import logo from "../../assets/Img/Logo/logo.webp";
-import { useNavigate } from "react-router-dom";
+import { useLocation, useNavigate } from "react-router-dom";
 import { useTranslation } from "react-i18next";
 
 export const Footer = () => {
+  const location = useLocation();
   const { t, i18n } = useTranslation("global");
   const navigate = useNavigate();
   return (
@@ -25,37 +26,45 @@ export const Footer = () => {
             <div className="text-[28px] tracking-widest text-[#000] underline font-bebas">
               Get in Touch
             </div>
-            <div className=" flex items-center cursor-pointer gap-x-3 mt-4">
+            <a
+              href="mailto:bigbrains.swiss@gmail.com"
+              target="_blank"
+              className=" flex items-center cursor-pointer text-[#000] hover:text-[#fff] transition-all duration-200 gap-x-3 mt-4"
+            >
               <div className="w-[40px] h-[40px] flex border-2 border-[#000] rounded-full justify-center items-center">
                 <i className="text-[25px] fa-regular fa-envelope rounded-full"></i>
               </div>
               <div className="text-[18px] font-nomral font-semibold font-outfit">
                 bigbrains.swiss@gmail.com
               </div>
-            </div>
-            <div className=" flex items-center cursor-pointer gap-x-3 mt-4">
+            </a>
+            <a
+              href="tel:+41767603921"
+              target="_blank"
+              className=" flex items-center cursor-pointer gap-x-3 mt-4 text-[#000] hover:text-[#fff] transition-all duration-200"
+            >
               <div className="w-[40px] h-[40px] flex border-2 border-[#000] rounded-full justify-center items-center">
                 <i className="text-[18px] fa-solid fa-phone"></i>
               </div>
               <div className="text-[18px] font-nomral font-semibold font-outfit">
                 Call / Whatsapp +41 76 760 39 21
               </div>
-            </div>
-            <div className=" flex items-center cursor-pointer gap-x-3 mt-4">
+            </a>
+            <div className=" flex items-center cursor-pointer gap-x-3 mt-4 text-[#000] hover:text-[#fff] transition-all duration-200">
               <div className="w-[40px] h-[40px] flex border-2 border-[#000] rounded-full justify-center items-center">
-                <i class="text-[18px] fa-solid fa-location-dot"></i>
+                <i className="text-[18px] fa-solid fa-location-dot"></i>
               </div>
               <div className="text-[18px] font-nomral font-semibold font-outfit">
                 GZ Oerlikon, VFK Kloten, <div className="block"></div>GZ
                 Heuried, GZ Leimbach.
               </div>
             </div>
-            <div className=" flex items-center cursor-pointer gap-x-3 mt-4">
-              <div className="w-[40px] h-[40px] flex border-2 border-[#000] rounded-full justify-center items-center">
-                <i class="text-[18px] fa-brands fa-instagram"></i>
+            <div className=" flex items-center cursor-pointer gap-x-3 mt-4 ">
+              <div className="w-[40px] h-[40px] flex border-2 border-[#000] text-[#000] hover:text-[#fff] transition-all duration-200 rounded-full justify-center items-center">
+                <i className="text-[18px] fa-brands fa-instagram"></i>
               </div>
-              <div className="w-[40px] h-[40px] flex border-2 border-[#000] rounded-full justify-center items-center">
-                <i class="text-[18px] fa-brands fa-facebook-f"></i>
+              <div className="w-[40px] h-[40px] flex border-2 border-[#000] text-[#000] hover:text-[#fff] transition-all duration-200 rounded-full justify-center items-center">
+                <i className="text-[18px] fa-brands fa-facebook-f"></i>
               </div>
             </div>
           </div>
@@ -72,7 +81,11 @@ export const Footer = () => {
               <div className="w-[25px] h-[25px] flex border-2 border-[#000] rounded-full justify-center items-center">
                 <i className="fa-solid fa-chevron-right"></i>
               </div>
-              <div className="text-[18px] font-nomral font-semibold font-outfit">
+              <div
+                className={`text-[18px]  font-nomral font-semibold font-outfit text-[#000] hover:text-[#fff] transition-all duration-200 ${
+                  location.pathname === "/" ? "underline" : null
+                }`}
+              >
                 {t("nav.home")}
               </div>
             </div>
@@ -85,7 +98,11 @@ export const Footer = () => {
               <div className="w-[25px] h-[25px] flex border-2 border-[#000] rounded-full justify-center items-center">
                 <i className="fa-solid fa-chevron-right"></i>
               </div>
-              <div className="text-[18px] font-nomral font-semibold font-outfit">
+              <div
+                className={`text-[18px] font-nomral font-semibold font-outfit text-[#000] hover:text-[#fff] transition-all duration-200 ${
+                  location.pathname === "/about" ? "underline" : null
+                }`}
+              >
                 {t("nav.about")}
               </div>
             </div>
@@ -98,7 +115,11 @@ export const Footer = () => {
               <div className="w-[25px] h-[25px] flex border-2 border-[#000] rounded-full justify-center items-center">
                 <i className="fa-solid fa-chevron-right"></i>
               </div>
-              <div className="text-[18px] font-nomral font-semibold font-outfit">
+              <div
+                className={`text-[18px] font-nomral font-semibold font-outfit text-[#000] hover:text-[#fff] transition-all duration-200 ${
+                  location.pathname === "/programs" ? "underline" : null
+                }`}
+              >
                 {t("nav.programs")}
               </div>
             </div>
@@ -111,7 +132,11 @@ export const Footer = () => {
               <div className="w-[25px] h-[25px] flex border-2 border-[#000] rounded-full justify-center items-center">
                 <i className="fa-solid fa-chevron-right"></i>
               </div>
-              <div className="text-[18px] font-nomral font-semibold font-outfit">
+              <div
+                className={`text-[18px] font-nomral font-semibold font-outfit text-[#000] hover:text-[#fff] transition-all duration-200 ${
+                  location.pathname === "/contact" ? "underline" : null
+                }`}
+              >
                 {t("nav.contact")}
               </div>
             </div>

@@ -93,7 +93,7 @@ export const Home = () => {
       </div>
       <div className="w-full bg-[#f5f7f8] h-[auto] lg:h-screen" align="center">
         <div
-          className="w-[100%] rounded h-[auto] lg:h-screen"
+          className="w-[100%] bg-scroll lg:bg-fixed rounded h-[auto] lg:h-screen"
           style={{
             backgroundImage: `url(${bg3})`,
             backgroundPosition: "center",

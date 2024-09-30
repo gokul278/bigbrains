@@ -22,14 +22,14 @@
     "howcontent4": "Persönliche Aufmerksamkeit fördert oft das Lernen.​",
     "howhead5": "Betonen Sie praktisches Lernen",
     "howcontent5": "Projekte, die Kinder zum Gestalten und Experimentieren anregen, sind der Schlüssel zum Behalten von Wissen.​",
-    "coding":"Coding und Robotik an der",
-    "codingcontent1":"Bei Big Brains bieten wir einen dynamischen Lehrplan in Programmierung und Robotik an, der die Neugierde wecken und eine lebenslange Leidenschaft für Technologie entwickeln soll. Unsere Programme richten sich an verschiedene Altersgruppen und Fähigkeitsstufen, sodass jedes Kind ein Programm finden kann, das seinen Interessen entspricht. Mit hochmodernen Ressourcen und erfahrenen Lehrern schaffen wir eine Umgebung, die Innovation und Wachstum fördert.",
-    "codingcontent2":"Unsere praxisorientierten Kurse führen Schüler anhand spannender Projekte in die Konzepte von Technik, Programmierung und Design ein und regen sie an, kritisch und kreativ zu denken und dabei Spaß zu haben. Kommen Sie zu uns und erleben Sie, wie Ihr Kind zu einem technisch versierten Problemlöser wird, der für die Zukunft gerüstet ist!",
-    "enrollcontent":"Hören Sie von Eltern und Schülern, die ihre Fähigkeiten und ihr Selbstvertrauen durch unsere Robotik- und Programmierkurse verbessert haben",
-    "enrollbutton":"Jetzt anmelden"
+    "coding": "Coding und Robotik an der",
+    "codingcontent1": "Bei Big Brains bieten wir einen dynamischen Lehrplan in Programmierung und Robotik an, der die Neugierde wecken und eine lebenslange Leidenschaft für Technologie entwickeln soll. Unsere Programme richten sich an verschiedene Altersgruppen und Fähigkeitsstufen, sodass jedes Kind ein Programm finden kann, das seinen Interessen entspricht. Mit hochmodernen Ressourcen und erfahrenen Lehrern schaffen wir eine Umgebung, die Innovation und Wachstum fördert.",
+    "codingcontent2": "Unsere praxisorientierten Kurse führen Schüler anhand spannender Projekte in die Konzepte von Technik, Programmierung und Design ein und regen sie an, kritisch und kreativ zu denken und dabei Spaß zu haben. Kommen Sie zu uns und erleben Sie, wie Ihr Kind zu einem technisch versierten Problemlöser wird, der für die Zukunft gerüstet ist!",
+    "enrollcontent": "Hören Sie von Eltern und Schülern, die ihre Fähigkeiten und ihr Selbstvertrauen durch unsere Robotik- und Programmierkurse verbessert haben",
+    "enrollbutton": "Jetzt anmelden"
   },
-  "footer":{
-    "content":"Vorbildliches Coding- und Robotik-Training für Kinder ab 7 Jahren in der Schweiz."
+  "footer": {
+    "content": "Vorbildliches Coding- und Robotik-Training für Kinder ab 7 Jahren in der Schweiz."
   },
   "about": {
     "aboutus": "Über uns",
@@ -55,5 +55,35 @@
     "skillscontent1": "Ganz gleich, ob Ihr Kind neu in der Welt der Robotik und des Programmierens ist oder bereits einige der Konzepte beherrscht, wir haben Programme, die für jeden Bedarf und jedes Kenntnisstand geeignet sind. Werfen Sie einen Blick auf unsere Programme, um herauszufinden, welche Option am besten zu den Bedürfnissen Ihres Kindes passt.",
     "skillscontent2": "Wenn Sie weitere Informationen benötigen oder Fragen haben, kontaktieren Sie uns bitte, und wir helfen Ihnen gerne weiter!​",
     "contact": "Kontaktieren Sie uns"
+  },
+  "contact": {
+    "contact": "Kontaktieren Sie uns",
+    "para": "Wir würden uns freuen, von Ihnen zu hören! Egal, ob Sie Fragen zu unseren Kursen haben, Unterstützung benötigen oder einfach nur Hallo sagen möchten, zögern Sie nicht, sich an uns zu wenden."
+  },
+  "program": {
+    "program": "Programme",
+    "heading1": "Die Innovatoren von morgen fördern",
+    "content1": "Big Brains inspiriert junge Köpfe mit interaktiven Robotik- und Programmierprogrammen. Bei Big Brains findet jedes Kind, unabhängig von Alter oder Erfahrungslevel, ein Programm, das es begeistert und sein Potenzial herausfordert.",
+    "highlights": "Programm-Highlights",
+    "highlightcontent1": "Erfahrungs- und projektbasiertes Lernen.",
+    "highlightcontent2": "Von einem Kursleiter geleitete Sitzungen (online und offline),",
+    "highlightcontent3": "Curriculum nach Altersgruppen",
+    "overviewhead": "Übersicht über die von uns angebotenen Programme",
+    "overviewcontent11": "Robotik für Einsteiger",
+    "overviewcontent12": "Level ONE (ab 7 Jahren)",
+    "overviewcontent13": "Unser Einsteigerkurs richtet sich an kleine Entdecker, die sich zum ersten Mal in die faszinierende Roboterwelt begeben. Dieser Kurs befasst sich mit den wissenschaftlichen Aspekten der Programmierung und mechanischen Konstruktion mit praktischem Lernen, da die Schüler ihre Roboter mit intuitiven Werkzeugen bauen und programmieren. Am Ende haben sie ihre Fähigkeiten zum kritischen Denken und zur Problemlösung gestärkt.",
+    "overviewcontent14": "Program outcome",
+    "overviewcontent15": "Kinder lernen blockbasiertes Programmieren mit SCRATCH-Programmierung.​",
+    "overviewcontent16": "Erstellen kleiner Robotikprojekte mit Tinkercad Block Programming.​",
+    "overviewcontent17": "Einfache Android-Apps mit App Inventor.​",
+    "overviewcontent18": "Online-Programm.",
+    "overviewcontent19": "Big Brains glaubt, dass jedes Kind anders lernt. Um diesen unterschiedlichen Bedürfnissen gerecht zu werden, bieten wir personalisierte Online-Programmier- und Robotikkurse an. Diese Kurse werden die Schüler in die Lage versetzen, in der heutigen digitalen Welt erfolgreich zu sein. Ob Einzelunterricht oder in kleinen Gruppen, unsere Instruktoren sind geschult, um den Schülern maßgeschneiderte Hilfe zu bieten, damit sie ihr volles Potenzial ausschöpfen können. Level One und Level Two sind online verfügbar.",
+    "overviewcontent110": "Sind Sie bereit, Ihre Lernreise zu beginnen? Melden Sie sich noch heute an, um den ersten Schritt zur Erreichung Ihrer Ziele zu machen.​​",
+    "overviewcontent21": "Robotik auf mittlerer Ebene",
+    "overviewcontent22": "Stufe ZWEI",
+    "overviewcontent23": "Unser Robotikkurs für Fortgeschrittene erweitert die Grundkenntnisse und führt in fortgeschrittene Programmierung, Sensorintegration und Automatisierung ein. Die Studierenden entwerfen und bauen Roboter, um komplexe Aufgaben wie das Navigieren in Labyrinthen oder das Ausführen automatisierter Aktionen zu bewältigen. Dieser praxisorientierte Ansatz fördert die Kreativität und schärft die technischen Fähigkeiten für zukünftige Herausforderungen der Robotik.",
+    "overviewcontent24": "Kinder lernen fortgeschrittenes blockbasiertes Programmieren mit SCRATCH-Programmierung.",
+    "overviewcontent25": "Erstellen von Robotikprojekten mit Tinkercad.​",
+    "overviewcontent26": "Textbasiertes Codieren mit Python, Grundlagen des maschinellen Lernens und KI.​"
   }
 }
