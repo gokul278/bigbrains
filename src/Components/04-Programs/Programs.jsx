@@ -163,7 +163,7 @@ const Programs = () => {
                 </div>
                 <div className="w-[100%] pt-8 flex justify-center">
                   <h1 className="text-[25px] font-bold font-outfit">
-                    {t("program.overviewcontent14s")}
+                    {t("program.overviewcontent14")}
                   </h1>
                 </div>
                 <div className="w-[100%] pt-5 flex justify-center">
