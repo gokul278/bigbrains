@@ -80,10 +80,10 @@ const Programs = () => {
           </div>
           <div className="w-[100%] py-10 gap-y-16 flex flex-col justify-center items-center">
             <div
-              className="w-[90%] lg:w-[70%] flex h-[110px] shadow-sm rounded-r-full bg-[#CDE8E5]"
+              className="w-[90%] lg:w-[70%] flex h-[120px] lg:h-[110px] shadow-sm rounded-r-full bg-[#CDE8E5]"
               data-aos="zoom-in"
             >
-              <div className="w-[65%] lg:w-[80%] h-[110px] flex justify-end items-center text-[20px] lg:text-[30px] font-bold font-outfit">
+              <div className="w-[65%] lg:w-[80%] h-[120px] flex justify-end items-center text-[20px] lg:text-[30px] font-bold font-outfit">
                 <p className="w-[90%]" align="start">
                   {t("program.highlightcontent1")}
                 </p>
@@ -98,10 +98,10 @@ const Programs = () => {
               </div>
             </div>
             <div
-              className="w-[90%] lg:w-[70%] flex h-[110px] shadow-sm rounded-r-full bg-[#CDE8E5]"
+              className="w-[90%] lg:w-[70%] flex h-[120px] lg:h-[110px] shadow-sm rounded-r-full bg-[#CDE8E5]"
               data-aos="zoom-in"
             >
-              <div className="w-[65%] lg:w-[80%] h-[110px] flex justify-end items-center text-[20px] lg:text-[30px] font-bold font-outfit">
+              <div className="w-[65%] lg:w-[80%] h-[120px] flex justify-end items-center text-[20px] lg:text-[30px] font-bold font-outfit">
                 <p className="w-[90%]" align="start">
                   {t("program.highlightcontent2")}
                 </p>
@@ -116,10 +116,10 @@ const Programs = () => {
               </div>
             </div>
             <div
-              className="w-[90%] lg:w-[70%] flex h-[110px] shadow-sm rounded-r-full bg-[#CDE8E5]"
+              className="w-[90%] lg:w-[70%] flex h-[120px] lg:h-[110px] shadow-sm rounded-r-full bg-[#CDE8E5]"
               data-aos="zoom-in"
             >
-              <div className="w-[65%] lg:w-[80%] h-[110px] flex justify-end items-center text-[20px] lg:text-[30px] font-bold font-outfit">
+              <div className="w-[65%] lg:w-[80%] h-[120px] flex justify-end items-center text-[20px] lg:text-[30px] font-bold font-outfit">
                 <p className="w-[90%]" align="start">
                   {t("program.highlightcontent3")}
                 </p>
@@ -251,19 +251,19 @@ const Programs = () => {
               <div className="w-full flex flex-col">
                 <div className="w-[100%] flex justify-center">
                   <h1 className="text-[25px] font-bold font-outfit">
-                  {t("program.overviewcontent21")}
+                    {t("program.overviewcontent21")}
                     <br />
                     {t("program.overviewcontent22")}
                   </h1>
                 </div>
                 <div className="w-[100%] pt-5 flex justify-center">
                   <p className="text-[18px] text-justify font-normal">
-                  {t("program.overviewcontent23")}
+                    {t("program.overviewcontent23")}
                   </p>
                 </div>
                 <div className="w-[100%] pt-8 flex justify-center">
                   <h1 className="text-[25px] font-bold font-outfit">
-                  {t("program.overviewcontent14")}
+                    {t("program.overviewcontent14")}
                   </h1>
                 </div>
                 <div className="w-[100%] pt-5 flex justify-center">
@@ -276,7 +276,7 @@ const Programs = () => {
                     />
                   </div>
                   <div className="w-[80%] text-[18px] text-justify">
-                  {t("program.overviewcontent24")}
+                    {t("program.overviewcontent24")}
                   </div>
                 </div>
                 <div className="w-[100%] pt-3 flex justify-center">
@@ -290,7 +290,7 @@ const Programs = () => {
                     />
                   </div>
                   <div className="w-[80%] text-[18px] text-justify">
-                  {t("program.overviewcontent25")}​
+                    {t("program.overviewcontent25")}​
                   </div>
                 </div>
                 <div className="w-[100%] flex justify-center">
@@ -304,7 +304,7 @@ const Programs = () => {
                     />
                   </div>
                   <div className="w-[80%] text-[18px] text-justify">
-                  {t("program.overviewcontent26")}
+                    {t("program.overviewcontent26")}
                   </div>
                 </div>
                 <div className="w-[100%] pt-8 flex justify-center">
@@ -362,10 +362,10 @@ const Programs = () => {
                 {t("program.overviewcontent18")}
               </h1>
               <p className="text-[18px] mt-5 text-justify font-normal">
-              {t("program.overviewcontent19")}
+                {t("program.overviewcontent19")}
               </p>
               <p className="text-[18px] mt-3 text-justify font-normal">
-              {t("program.overviewcontent110")}
+                {t("program.overviewcontent110")}
               </p>
             </div>
             <div className="w-[100%] lg:w-[45%] mt-8 lg:mt-0 flex justify-center items-center">

@@ -8,7 +8,7 @@ import deimg from "../../assets/Img/Language/de.svg";
 import Loader from "../../Pages/Loader/Loader";
 
 export default function Header() {
-  const [language, setLanguage] = useState("de");
+  const [language, setLanguage] = useState("en");
   const { t, i18n } = useTranslation("global");
   const navigate = useNavigate();
   const location = useLocation();
