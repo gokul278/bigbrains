@@ -37,7 +37,7 @@ export const Home = () => {
               data-aos-delay="200"
             >
               {t("home.heading1")}{" "}
-              <span className="text-[#309591]">Big Brains</span>
+              <span className="text-[#309591]">Maven Academy</span>
             </h1>
             <p className="w-[85%] lg:w-[100%] mt-4 text-[18px] font-normal font-outfit">
               {t("home.content1")}{" "}
@@ -204,7 +204,7 @@ export const Home = () => {
           </span>
           <h1 className="text-[40px] text-[#309591] flex flex-col font-bebas tracking-widest">
             {t("home.coding")}&nbsp;
-            <span className="text-[#000] font-bold">Big Brains</span>
+            <span className="text-[#000] font-bold">Maven Academy</span>
           </h1>
         </div>
       </div>
@@ -258,7 +258,7 @@ export const Home = () => {
           align="center"
         >
           {t("home.enrollcontent")}&nbsp;
-          <div className="text-[#309591] font-bold">Big Brains!</div>
+          <div className="text-[#309591] font-bold">Maven Academy!</div>
         </p>
 
         <div className="mt-5">

@@ -47,7 +47,7 @@ const About = () => {
               data-aos-delay="300"
             >
               {t("about.content1")}{" "}
-              <span className="text-[#309591] font-bold">Big Brains</span>
+              <span className="text-[#309591] font-bold">Maven Academy</span>
               {t("about.content2")}
             </p>
           </div>

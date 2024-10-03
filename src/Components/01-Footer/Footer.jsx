@@ -148,7 +148,7 @@ export const Footer = () => {
           className="text-[16px] lg:text-[17px] text-[#000] font-semibold font-outfit"
           align="center"
         >
-          © Copyright @ BIG BRAINS - 2024.
+          © Copyright @ Maven Academy - 2024.
           <div className="block lg:hidden"></div> All Rights Reserved
         </div>
       </div>
